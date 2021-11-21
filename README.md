@@ -12,7 +12,9 @@ gems you don't own will work as expected.
 A potential use case is using the [Async](https://github.com/socketry/async)
 gem with the [Falcon](https://github.com/socketry/falcon) server 
 and you want to use [RequestStore](https://github.com/steveklabnik/request_store) 
-for per-request storage.
+for per-request storage. For this particular use case,
+take a look at the
+[request_store-fibers](https://github.com/BMorearty/request_store-fibers) gem.
 
 ## Installation
 
