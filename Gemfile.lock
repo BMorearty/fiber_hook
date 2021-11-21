@@ -54,7 +54,7 @@ DEPENDENCIES
   fiber_hook!
   rake (~> 13.0)
   rspec (~> 3.0)
-  rubocop (~> 1.7)
+  rubocop (~> 1.23)
   rubocop-rake
   rubocop-rspec
 
